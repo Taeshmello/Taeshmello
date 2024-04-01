@@ -13,4 +13,5 @@
   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Taeshmello&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taeshmello&layout=compact&theme=nord&hide_border=true" /></a> 
 </div>
-
+<br>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbeoaJ1%2FbtsGg0YyMKC%2FkdYuZ5DKLKihuANxK7sGr0%2Fimg.jpg">
